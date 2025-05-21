@@ -1,0 +1,1 @@
+This is s small tool used (currently) with a .csv file, to download via Yahoo-stocks, stock-data (IRX, SPY, yields, returns, etc) -- summarizes them to an output text file, and produces charts (linear-regression, histograms, etc) to reflect the data, given the request stock-date
